@@ -1,4 +1,4 @@
-# xSynth by Cosmos Bennett @
+# xSynth by Cosmos Bennett @iCosmosNeuroverse
 
 ![image](https://github.com/iCosmosNeuroverse/xSynth/blob/main/data/xSynthIcon.jpg)
 
